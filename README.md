@@ -1,6 +1,6 @@
 # Feegow Challenge
 
-O objetivo é avaliar sua experiência em resolver problemas e escrever código de fácil manutenção. Por ser uma prova de front-end também desejamos que o layout se agradável, por mais que isso seja relativo :)
+O objetivo é avaliar sua experiência em resolver problemas e escrever código de fácil manutenção. Por ser uma prova de front-end também desejamos que o layout seja agradável, por mais que isso seja relativo :)
 
 
 ## Apresentação do problema

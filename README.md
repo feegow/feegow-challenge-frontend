@@ -25,7 +25,7 @@ A clínica _Exemplo_ precisa exibir a listagem de seus médicos separados por es
   
   5- Após salvar as informações, deverá ser exibido uma notificação ao usuário informando que os dados foram salvos com sucesso.
 
-  6- Deverá ser desenvolvido também uma tela com a listagem dos agendamentos, com "Nome do Paciente", "Nome do Profissional, "Nome da Especialidade", "Nome da Origem" ,"CPF" e "Data de Nascimento"
+  6- **OPCIONAL** Deverá ser desenvolvido também uma tela com a listagem dos agendamentos, com "Nome do Paciente", "Nome do Profissional, "Nome da Especialidade", "Nome da Origem" ,"CPF" e "Data de Nascimento"
 
 
 ## Apis:

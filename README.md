@@ -12,11 +12,11 @@ A clínica _Exemplo_ precisa exibir a listagem de seus médicos separados por es
   ![Exemplo do SELECT](https://image.prntscr.com/image/krKCLaZGT1O3rf4h4ETLow.png)
   
   
-  2- Quando o usuário escolhe uma especialidade, é listado apenas os profissionais que possuem a especialidade selecionada. 
+  2- Quando o usuário escolhe uma especialidade, deverá ser listado apenas os profissionais que possuem a especialidade selecionada. 
 
   ![Exemplo do SELECT](https://image.prntscr.com/image/v4cm7l99TOuvcyhHuIgaJw.png)
 
-  3- Quando o usuário clica em "AGENDAR", será exibido um formulário que o usuário irá preencher e clicar em "ENVIAR".
+  3- Quando o usuário clica em "AGENDAR", deverá ser exibido um formulário que o usuário irá preencher e clicar em "ENVIAR".
   Obs: A listagem do campo "Como conheceu" deve vir da api de lista de origens  
 
   ![Exemplo do SELECT](https://image.prntscr.com/image/w34r0YIUQsmlJcq7DcaIQA.png)
